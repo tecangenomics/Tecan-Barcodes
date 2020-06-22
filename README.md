@@ -1,7 +1,9 @@
 # Tecan Index Sequence Files  
 Index sequences (barcodes) for Tecan NGS kits.  
   
-Files are provided as tab-delimited text files according to indexing set. A key to which index file is appropriate for your particular kit is included here. You can search this easily with the search function in your browser (ctrl-F).  
+Files are provided as tab-delimited text files according to indexing set. A key to which index file is appropriate for your particular kit is included below. Easily use the search function in your browser (ctrl-F) to quickly find your particular kit.  
+
+UDI plates with "fastq-multx" in the filename have hyphenated index sequences for use with the [fastq-multx command from ea-utils](https://expressionanalysis.github.io/ea-utils/).  
 
 ## Index set name
 * **AdaptorID, kit name(s) (part numbers)**  
