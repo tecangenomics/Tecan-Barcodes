@@ -8,8 +8,8 @@ UDI plates with "fastq-multx" in the filename have hyphenated index sequences fo
 ## Index set name
 * **AdaptorID, kit name(s) (part numbers)**  
 
-Index map file | Kit names | Kit part numbers
--------------- | --------- | ----------------
+Index map file | Kit names         | Kit part numbers
+-------------- | ----------------- | ----------------
 UDI_A | UltraEZ, Trio, UltraLow v2 UDI, OvationRapid UDI, Universal (ALL) UDI, Celero UDI, RapidEZ UDI, Trio UDI | 9143-96, 9149-A01, 9150-96, 9155-96, 9366-A01, 9141-A01, 9145-96, 0520-A01, 0521-A01, 0522-A01, 0537-A01, 0538-A01, 0539-A01, 0540-A01, 9144-A01, 9147-A01, 9151-A01, 9361-A01, 9144-96, 9147-96, 9361-32, 9367-32, S02534, 0360A-UDI, 9363A-UDI, 0567-A01, 9150-A01, 9143-A01
 UDI_B | Universal (ALL) UDIB, Celero (ALL) UDIB | 0520B-A01, 0521B-A01, 0522B-A01, 0537B-A01, 0538B-A01, 0539B-A01, 0540B-A01, 0360B-UDI 9363B-UDI
 UDI_C | Celero UDIC | 9363C-UDI, 0360C-UDI
