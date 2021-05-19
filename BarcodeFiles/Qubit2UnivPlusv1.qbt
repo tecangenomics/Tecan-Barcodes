@@ -1,0 +1,18 @@
+Parent Name: Univ. Plus
+
+Name 1: Univ. Plus
+Name Sub-text: mRNA NuQuant v1.0
+Calibration: YES
+Units: nM
+Excitation: RED
+Emission: FAR RED
+Std Signal Ratio Limit: 10
+Low: 0.1
+High: 40
+N: 0.979129076211733
+K: 4520.90855820289
+S: 16.1
+Green RFU Name: 
+Far Red RFU Name: 
+
+
