@@ -1,0 +1,14 @@
+Assay Name: Univ. Plus
+Name Sub-text: mRNA NuQuant v1.0
+Calibration: YES
+Units: nM
+Excitation: RED
+Emission: FAR RED
+Std Signal Ratio Limit: 10
+Low: 0.1
+High: 40
+N: 0.97912908
+K: 4520.90856
+S: 16.1
+Green RFU Name: nm
+Far Red RFU Name: 
